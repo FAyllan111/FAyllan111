@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**FAyllan111/FAyllan111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> <img src="https://media.tenor.com/MkI8xJLf6iwAAAAC/background-aesthetic.gif"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=25&duration=1900&pause=1000&color=BFCDE0&center=true&vCenter=true&width=435&lines=Hi%2C+I%C2%B4m+Ayllan+Alves+;I%C2%B4m+24+years+old;I%C2%B4m+a+Back-end+Developer+student+;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+<div align= "center">
+  <br>
+
+ <strong> **`Back-End Developer / Curioso / Criativo / Autodidata /  `** <strong>
+  
+  <h3> <strong> 🖖 Olá,me chamo Ayllan !!! 🖖 <strong> </h3>
+<p> Atualmente estou cursando ciência da computação com foco para me tornar um desenvolvedor .NET com foco em backend.
+</p>
+  <p>Buscando dominar tecnologias como C#, .NET, Angular e Unity.</p>
+
+   <p align="center">
+      <a href="mailto:franciscoayllan@gmail.com">
+         <img alt="email" title="Entre em contato" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+	<a href="https://www.linkedin.com/in/ayllan-silva-3a4448192">
+         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+   </p>
+</div>
+
+---
+<div align= "center">
+     <h3> <strong> 🧰 Linguagens e Ferramentas </strong></h3> <br>
+     <img align= "center" padding ="0"src="https://skillicons.dev/icons?i=git,github,cs,dotnet,vscode,figma,angular,ts" alt="skills logos"/>
+     <h3> <strong> 💭 Planejando Aprender </strong></h3>
+     <img align= "center" width="750px"src="https://skillicons.dev/icons?i=py,kotlin,nodejs,webpack,unity,golang,java,js,html,css,mongodb,postgres,gcp,azure,aw,fastapi,docker" alt="skills planning to learn logos">
+</div></br>
+
+---
+<div align= "center">
+     <h3> <strong> 📊 Status </strong></h3> <br>
+      <img align= "center" width="450px" height="200px" margin="10px" src="https://github-readme-stats.vercel.app/api?username=FAyllan111&show_icons=true&theme=tokyonight" alt="skills logos"/>
+      <img align= "center" width="450px" height="200px" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAyllan111&langs_count=5&theme=tokyonight" alt="skills logos"/>
+</div></br>
+
+</a>
+
+##
+
+<details>
+<summary><h3>👨‍💻 </h3></summary>
+      
+
+ 
