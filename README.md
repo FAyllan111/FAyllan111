@@ -15,7 +15,7 @@
  <strong> **`Back-End Developer / Curioso / Criativo / Autodidata /  `** <strong>
   
   <h3> <strong> 🖖 Olá,me chamo Ayllan !!! 🖖 <strong> </h3>
-<p> Atualmente estou cursando ciência da computação com foco para me tornar um desenvolvedor .NET com foco em backend.
+<p> Atualmente estou cursando ciência da computação com foco para me tornar um desenvolvedor backend usando C# e .NET.
 </p>
   <p>Buscando dominar tecnologias como C#, .NET, Angular e Unity.</p>
 
@@ -33,7 +33,7 @@
      <h3> <strong> 🧰 Linguagens e Ferramentas </strong></h3> <br>
      <img align= "center" padding ="0"src="https://skillicons.dev/icons?i=git,github,cs,dotnet,vscode,figma,angular,ts" alt="skills logos"/>
      <h3> <strong> 💭 Planejando Aprender </strong></h3>
-     <img align= "center" width="750px"src="https://skillicons.dev/icons?i=py,kotlin,nodejs,webpack,unity,golang,java,js,html,css,mongodb,postgres,gcp,azure,aw,fastapi,docker" alt="skills planning to learn logos">
+     <img align= "center" width="750px"src="https://skillicons.dev/icons?i=py,kotlin,nodejs,webpack,unity,golang,java,js,html,css,mongodb,postgres,gcp,azure,aw,fastapi,docker,kubernets" alt="skills planning to learn logos">
 </div></br>
 
 ---
