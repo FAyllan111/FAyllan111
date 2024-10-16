@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=25&duration=1900&pause=1000&color=BFCDE0&center=true&vCenter=true&width=435&lines=Hi%2C+I%C2%B4m+Ayllan+Alves+;I%C2%B4m+24+years+old;I%C2%B4m+a+Back-end+Developer+student+;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=25&duration=1900&pause=1000&color=BFCDE0&center=true&vCenter=true&width=435&lines=Hi%2C+I%C2%B4m+Ayllan+Alves+;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -15,7 +15,7 @@
  <strong> **`Back-End Developer / Curioso / Criativo / Autodidata /  `** <strong>
   
   <h3> <strong> 🖖 Olá,me chamo Ayllan !!! 🖖 <strong> </h3>
-<p> Atualmente estou cursando ciência da computação com foco para me tornar um desenvolvedor backend usando C# e .NET.
+<p> Sou paixonado por tecnologia, viciado em aprender e buscar novos desafios! Estou iniciando a faculdade de Ciência da Computação e focado em me tornar desenvolvedor backend. 
 </p>
   <p>Buscando dominar tecnologias como C#, .NET, Angular e Unity.</p>
 
