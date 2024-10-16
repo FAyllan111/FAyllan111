@@ -1,13 +1,12 @@
 
-<div> <img src="https://media.tenor.com/MkI8xJLf6iwAAAAC/background-aesthetic.gif"/>
-</div>
+<!--- <div> <img src="https://media.tenor.com/MkI8xJLf6iwAAAAC/background-aesthetic.gif"/>
+</div> -->
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=25&duration=1900&pause=1000&color=BFCDE0&center=true&vCenter=true&width=435&lines=Hi%2C+I%C2%B4m+Ayllan+Alves+;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
 ---
-
 
 <div align= "center">
   <br>
@@ -29,6 +28,7 @@
 </div>
 
 ---
+
 <div align= "center">
      <h3> <strong> 📖 Aprendendo  </strong></h3> <br>
      <img align= "center" padding ="0"src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,git,github" alt="skills logos"/>
@@ -37,6 +37,7 @@
 </div></br>
 
 ---
+
 <div align= "center">
      <h3> <strong> 📊 Status </strong></h3> <br>
       <img align= "center" width="450px" height="200px" margin="10px" src="https://github-readme-stats.vercel.app/api?username=FAyllan111&show_icons=true&theme=tokyonight" alt="skills logos"/>
