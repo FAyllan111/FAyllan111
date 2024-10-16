@@ -30,7 +30,7 @@
 
 ---
 <div align= "center">
-     <h3> <strong> 🧰 Linguagens e Ferramentas </strong></h3> <br>
+     <h3> <strong> 📖 Aprendendo  </strong></h3> <br>
      <img align= "center" padding ="0"src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,git,github" alt="skills logos"/>
      <h3> <strong> 💭 Planejando Aprender </strong></h3>
      <img align= "center" width="750px"src="https://skillicons.dev/icons?i=kotlin,unity,golang,java,js,html,css,mongodb,postgres,py,gcp,azure,aws,docker,kubernetes" alt="skills planning to learn logos">
