@@ -31,9 +31,9 @@
 
 ---
 <div align= "Center">
- <h3> <strong>  Habilidades e Tecnológicas </strong> </h3>
+ <h3> <strong> 🧰 Habilidades e Tecnológicas </strong> </h3>
 
-💻 Áreas de conhecimento em que estou me especializando, dominando, ou que desejo explorar:
+ Áreas de conhecimento em que estou me especializando, dominando, ou que desejo explorar:
 
 Linguagens de Programação: 
 <br><br>
