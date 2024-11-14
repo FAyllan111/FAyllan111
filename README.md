@@ -37,11 +37,11 @@
 
 Linguagens de Programação: 
 <br><br>
-   <img alt="Programming Languages" src = "https://skillicons.dev/icons?i=cs,javascript,python,ts,kotlin,go"/>
+   <img alt="Programming Languages" src = "https://skillicons.dev/icons?i=cs,javascript,python,ts,kotlin,go,java"/>
 <br><br>
  Frameworks e Bibliotecas: 
 <br><br>
-   <img alt="Frameworks" src = "https://skillicons.dev/icons?i=dotnet,react,angular,vue,tailwind,fastapi"/>
+   <img alt="Frameworks" src = "https://skillicons.dev/icons?i=dotnet,react,angular,vue,tailwind,fastapi,spring"/>
 <br><br>
  Dados e Cloud: 
 <br><br>
@@ -53,7 +53,7 @@ Linguagens de Programação:
 <br><br>
  Desenvolvimento Web:
 <br><br>
-<img alt="Web Development" src = "https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,nodejs"/>
+<img alt="Web Development" src = "https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,nodejs,spring"/>
 <br><br>
 
 
