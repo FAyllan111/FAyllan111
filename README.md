@@ -49,7 +49,7 @@ Linguagens de Programação:
 <br><br>
  Ferramentas e Tecnologias: 
 <br><br>
-<img alt="Tools" src = "https://skillicons.dev/icons?i=vscode,git,github,visualstudio,unity,godot,kubernetes,docker"/>
+<img alt="Tools" src = "https://skillicons.dev/icons?i=vscode,git,github,visualstudio,unity,godot,kubernetes,docker,idea,rider"/>
 <br><br>
  Desenvolvimento Web:
 <br><br>
