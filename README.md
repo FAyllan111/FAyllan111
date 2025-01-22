@@ -17,7 +17,7 @@
 
 <p> Sou paixonado por tecnologia, viciado em aprender e buscar novos desafios! Estou iniciando a faculdade de Ciência da Computação e focado em me tornar desenvolvedor backend. 
 </p>
-  <p>Buscando dominar tecnologias como C#, .NET, Angular e Unity.</p>
+  <p>Buscando dominar tecnologias como Java, C#, .NET, Angular e Unity.</p>
 
 <h4> <strong>  Contato </strong> </h4>
    <p align="center">
