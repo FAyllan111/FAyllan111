@@ -62,7 +62,7 @@ Linguagens de Programação:
 <div align="center">
      <h3> <strong> 📊 Status </strong></h3> <br>
       <img align= "center" width="450px" height="250px" margin="10px" src="https://github-readme-stats.vercel.app/api?username=FAyllan111&show_icons=true&theme=tokyonight" alt="skills logos"/>
-      <img align= "center" width="450px" height="250px" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAyllan111&langs_count=5&theme=tokyonight" alt="skills logos"/>
+      <img align= "center" width="450px" height="250px" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAyllan111&langs_count=7&theme=tokyonight" alt="skills logos"/>
 </div></br>
 
 </a>
