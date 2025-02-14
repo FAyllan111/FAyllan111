@@ -1,72 +1,101 @@
+# 👋 Olá, eu sou o Ayllan Alves!
 
+` 🔧 **Back-End Developer** | 🎓 **Estudante de Ciência da Computação** | 🚀 **Apaixonado por Tecnologia** `
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=25&duration=2000&pause=1500&color=BFCDE0&center=true&vCenter=true&width=435&lines=Hi%2C+I%C2%B4m+Ayllan+Alves+;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+Atualmente, estou focado no desenvolvimento **back-end com Java**, estudando **Spring Boot**, **microsserviços** e **arquiteturas escaláveis**. Também possuo experiência com **.NET** e estou sempre explorando novas tecnologias para aprimorar minhas habilidades.
+
+<div align ="center">
+<h4> Contato :<h4>
+<a href = "mailto:franciscoayllan@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ayllan-silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ---
 
-<div align= "center">
-  <br>
+## 📚 O que estou aprendendo :
 
- <strong> **`Back-End Developer / Curioso / Criativo / Autodidata`** <strong>
-  
-  <h3> <strong> 🖖 Olá,me chamo Ayllan !!! 🖖 <strong> </h3>
+✅ **Desenvolvimento Back-End**: APIs RESTful com **Java & Spring Boot**.  
+✅ **Banco de Dados & ORM**: **JDBC, JPA/Hibernate, Spring Data JPA, MongoDB**.  
+✅ **Programação Funcional em Java**: **Expressões Lambda, Stream API**.  
+✅ **Cloud & Deploy**: Integração com serviços em nuvem **AWS e Azure**.  
+✅ **Desenvolvimento Profissional**: **Spring Boot, Maven, Git/GitHub e JavaFX**.  
 
-#
+---
 
-<p> Sou paixonado por tecnologia, viciado em aprender e buscar novos desafios! Estou iniciando a faculdade de Ciência da Computação e focado em me tornar desenvolvedor backend. 
+## 🚀 Principais Projetos
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+  <div>
+    <h3><a href="https://github.com/FAyllan111/bootcamp-dotnet">Bootcamp Back-End com .NET - DIO & Randstad</a></h3>
+    <p>Este repositório contém os projetos e desafios desenvolvidos durante o **Bootcamp Back-End com .NET**, abordando temas como **C#**, **.NET**, **APIs REST** e **deploy na nuvem**.</p>
+  </div>
+
+  <div>
+    <h3><a href="https://github.com/FAyllan111/bootcamp-java-cloud-native">Bootcamp Java Cloud Native - Bradesco</a></h3>
+    <p>Projetos do **Bootcamp Java Cloud Native** do **Bradesco**, com foco no desenvolvimento back-end com **Java**, **Spring Boot** e **microsserviços na nuvem**.</p>
+  </div>
+
+  <div>
+    <h3><a href="https://github.com/FAyllan111/maratona-java">Maratona Java "Virado no Jiraya"</a></h3>
+    <p>Repositório dedicado ao curso **"Maratona Java Virado no Jiraya"** do canal **DevDojo**. O curso abrange **conceitos avançados de Java**, proporcionando uma base sólida para o desenvolvimento de aplicações robustas.</p>
+  </div>
+
+  <div>
+    <h3><a href="https://github.com/FAyllan111/curso-java-completo">Curso: Java COMPLETO Programação Orientada a Objetos + Projetos</a></h3>
+    <p>Curso completo de **Java**, focado em **Programação Orientada a Objetos** e tópicos avançados como **Spring Boot**, **Hibernate** e **JPA** para o desenvolvimento de aplicações profissionais.</p>
+  </div>
+
+</div>
+
+---
+
+## 🛠️ Habilidades e Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow">
 </p>
-  <p>Buscando dominar tecnologias como Java, C#, .NET, Angular e Unity.</p>
 
-<h4> <strong>  Contato </strong> </h4>
-   <p align="center">
-      <a href="mailto:franciscoayllan@gmail.com">
-         <img alt="email" title="Entre em contato" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-	<a href="https://www.linkedin.com/in/ayllan-silva">
-         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet&logoColor=white">
+</p>
 
-   </p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
 
 ---
-<div align= "Center">
- <h3> <strong> 🧰 Habilidades e Tecnológicas </strong> </h3>
 
- Áreas de conhecimento em que estou me especializando, dominando, ou que desejo explorar:
+## 📊 Meus Status no GitHub
 
-Linguagens de Programação: 
-<br><br>
-   <img alt="Programming Languages" src = "https://skillicons.dev/icons?i=cs,javascript,python,ts,kotlin,go,java"/>
-<br><br>
- Frameworks e Bibliotecas: 
-<br><br>
-   <img alt="Frameworks" src = "https://skillicons.dev/icons?i=dotnet,react,angular,vue,tailwind,fastapi,spring"/>
-<br><br>
- Dados e Cloud: 
-<br><br>
-<img alt="Data" src = "https://skillicons.dev/icons?i=mysql,mongo,sqlite,postgres,gcp,aws,azure"/>
-<br><br>
- Ferramentas e Tecnologias: 
-<br><br>
-<img alt="Tools" src = "https://skillicons.dev/icons?i=vscode,git,github,visualstudio,unity,godot,kubernetes,docker,idea,rider"/>
-<br><br>
- Desenvolvimento Web:
-<br><br>
-<img alt="Web Development" src = "https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,nodejs,spring"/>
-<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FAyllan111&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAyllan111&langs_count=7&theme=tokyonight">
+</p>
+
+---
+
+## 📞 Contato
+
 
 
 ---
 
-<div align="center">
-     <h3> <strong> 📊 Status </strong></h3> <br>
-      <img align= "center" width="450px" height="250px" margin="10px" src="https://github-readme-stats.vercel.app/api?username=FAyllan111&show_icons=true&theme=tokyonight" alt="skills logos"/>
-      <img align= "center" width="450px" height="250px" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAyllan111&langs_count=7&theme=tokyonight" alt="skills logos"/>
-</div></br>
+🎯 **Objetivo:** Me tornar um especialista em **Java para back-end**, focando no desenvolvimento de **APIs escaláveis** e **microsserviços**.
 
-</a>
-
-
-
- 
+💡 *"A cada linha de código, um novo aprendizado. A tecnologia é meu campo de exploração!"* 🚀
