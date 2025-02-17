@@ -4,7 +4,7 @@
 `  🎓 Estudante de Ciência da Computação |  🔧 Back-End Developer  | 🚀 Apaixonado por Tecnologia `
 
 
-Atualmente, estou focado no desenvolvimento **back-end com Java**, estudando **Spring Boot**, **microsserviços** e **arquiteturas escaláveis**. Também possuo experiência com **.NET** e estou sempre explorando novas tecnologias para aprimorar minhas habilidades.
+Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolvedor back-end em Java. Estudando Spring Boot, microsserviços, arquiteturas escaláveis e outras tecnologias essenciais para o desenvolvimento back-end. Sempre em busca de aprendizado contínuo e aprimoramento das habilidades.
 
 <div align ="center">
 <h4> Contato :<h4>
@@ -46,8 +46,6 @@ Atualmente, estou focado no desenvolvimento **back-end com Java**, estudando **S
 </div>
 
 
-
-
 ---
 ## 📌 Principais Projetos  
 
@@ -73,15 +71,12 @@ Atualmente, estou focado no desenvolvimento **back-end com Java**, estudando **S
 ---
 ## 📚 O que estou aprendendo  
 
+- Java Core: **Fundamentos essenciais em Java**
 - Programação funcional em Java: **expressões lambda, Stream API**  
 - Banco de dados & ORM: **JDBC, JPA/Hibernate, Spring Data JPA, MongoDB**  
-- Desenvolvimento profissional: **Spring Boot, Maven, Git/GitHub e JavaFX**  
+- Desenvolvimento Web: **Spring Boot, Maven, Git/GitHub e JavaFX**  
 
 --- 
 
-
----
-
-🎯 **Objetivo:** Me tornar um especialista em **Java para back-end**, focando no desenvolvimento de **APIs escaláveis** e **microsserviços**.
 
 💡 *"A cada linha de código, um novo aprendizado. A tecnologia é meu campo de exploração!"* 🚀
