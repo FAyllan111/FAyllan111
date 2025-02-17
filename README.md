@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Ayllan Alves!
 
-` 🔧 **Back-End Developer** | 🎓 **Estudante de Ciência da Computação** | 🚀 **Apaixonado por Tecnologia** `
+
+`  🎓 Estudante de Ciência da Computação |  🔧 Back-End Developer  | 🚀 Apaixonado por Tecnologia `
+
 
 Atualmente, estou focado no desenvolvimento **back-end com Java**, estudando **Spring Boot**, **microsserviços** e **arquiteturas escaláveis**. Também possuo experiência com **.NET** e estou sempre explorando novas tecnologias para aprimorar minhas habilidades.
 
@@ -11,87 +13,71 @@ Atualmente, estou focado no desenvolvimento **back-end com Java**, estudando **S
 </div>
 
 ---
+## 🚀 Habilidades e Tecnologias  
 
-## 📚 O que estou aprendendo :
+<div align="center">
 
-✅ **Desenvolvimento Back-End**: APIs RESTful com **Java & Spring Boot**.  
-✅ **Banco de Dados & ORM**: **JDBC, JPA/Hibernate, Spring Data JPA, MongoDB**.  
-✅ **Programação Funcional em Java**: **Expressões Lambda, Stream API**.  
-✅ **Cloud & Deploy**: Integração com serviços em nuvem **AWS e Azure**.  
-✅ **Desenvolvimento Profissional**: **Spring Boot, Maven, Git/GitHub e JavaFX**.  
+### 🏆 Ferramentas com mais experiência  
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
----
+### 📚 Tecnologias em aprendizado  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-## 🚀 Principais Projetos
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-
-  <div>
-    <h3><a href="https://github.com/FAyllan111/bootcamp-dotnet">Bootcamp Back-End com .NET - DIO & Randstad</a></h3>
-    <p>Este repositório contém os projetos e desafios desenvolvidos durante o **Bootcamp Back-End com .NET**, abordando temas como **C#**, **.NET**, **APIs REST** e **deploy na nuvem**.</p>
-  </div>
-
-  <div>
-    <h3><a href="https://github.com/FAyllan111/bootcamp-java-cloud-native">Bootcamp Java Cloud Native - Bradesco</a></h3>
-    <p>Projetos do **Bootcamp Java Cloud Native** do **Bradesco**, com foco no desenvolvimento back-end com **Java**, **Spring Boot** e **microsserviços na nuvem**.</p>
-  </div>
-
-  <div>
-    <h3><a href="https://github.com/FAyllan111/maratona-java">Maratona Java "Virado no Jiraya"</a></h3>
-    <p>Repositório dedicado ao curso **"Maratona Java Virado no Jiraya"** do canal **DevDojo**. O curso abrange **conceitos avançados de Java**, proporcionando uma base sólida para o desenvolvimento de aplicações robustas.</p>
-  </div>
-
-  <div>
-    <h3><a href="https://github.com/FAyllan111/curso-java-completo">Curso: Java COMPLETO Programação Orientada a Objetos + Projetos</a></h3>
-    <p>Curso completo de **Java**, focado em **Programação Orientada a Objetos** e tópicos avançados como **Spring Boot**, **Hibernate** e **JPA** para o desenvolvimento de aplicações profissionais.</p>
-  </div>
+### 🔜 Tecnologias que pretende aprender  
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+</p>
 
 </div>
 
----
 
-## 🛠️ Habilidades e Tecnologias
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=white">
-</p>
 
 ---
+## 📌 Principais Projetos  
 
-## 📊 Meus Status no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAyllan111&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAyllan111&langs_count=7&theme=tokyonight">
-</p>
+<table>
+  <tr>
+    <td><a href="https://github.com/seuusuario/bootcamp-dotnet"><b>Bootcamp .NET</b></a></td>
+    <td><a href="https://github.com/seuusuario/java-cloud-native"><b>Java Cloud Native</b></a></td>
+  </tr>
+  <tr>
+    <td>Projetos desenvolvidos no Bootcamp Back-End com .NET.</td>
+    <td>Projetos do Bootcamp Java Cloud Native com microsserviços e APIs REST.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/seuusuario/maratona-java"><b>Maratona Java</b></a></td>
+    <td><a href="https://github.com/seuusuario/curso-java-poo"><b>Curso Java POO</b></a></td>
+  </tr>
+  <tr>
+    <td>Repositório de estudos do curso "Maratona Java" do DevDojo.</td>
+    <td>Projetos e exercícios do curso de Programação Orientada a Objetos em Java.</td>
+  </tr>
+</table>
 
 ---
+## 📚 O que estou aprendendo  
 
-## 📞 Contato
+- Programação funcional em Java: **expressões lambda, Stream API**  
+- Banco de dados & ORM: **JDBC, JPA/Hibernate, Spring Data JPA, MongoDB**  
+- Desenvolvimento profissional: **Spring Boot, Maven, Git/GitHub e JavaFX**  
 
+--- 
 
 
 ---
