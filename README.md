@@ -4,7 +4,7 @@
 `🎓 Estudante de Ciência da Computação |  🔧 Back-End Developer  | 🚀 Apaixonado por Tecnologia `
 
 
-Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolvedor back-end em Java. Estudando Spring Boot, microsserviços, arquiteturas escaláveis e outras tecnologias essenciais para o desenvolvimento back-end. Sempre em busca de aprendizado contínuo e aprimoramento das habilidades.
+<p align="center"> Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolvedor back-end em Java. Estudando Spring Boot, microsserviços, arquiteturas escaláveis e outras tecnologias essenciais para o desenvolvimento back-end. Sempre em busca de aprendizado contínuo e aprimoramento das habilidades.</p>
 
 <div align ="center">
 <h4> Contato :<h4>
@@ -17,7 +17,7 @@ Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolv
 <H2 align="left" ><strong>🚀 Habilidades e Tecnologias</strong> </h2>
 <h3 align="center">📚 Tecnologias em aprendizado</h3>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -33,11 +33,11 @@ Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
+
 
 <h3 align="center">🔜 Tecnologias que pretendo aprender</h3>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -106,11 +106,10 @@ Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolv
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FAyllan111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FAyllan111&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  /> <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAyllan111&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAyllan111&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
 
 
 ---
 
-💡 *"Tudo o que temos de decidir é o que fazer com o tempo que nos é dado."* - Gandalf 'O Cinzento' 🧙‍♂️
+<p align="center"> 💡 <strong>Tudo o que temos de decidir é o que fazer com o tempo que nos é dado."</strong> - Gandalf 'O Cinzento' 🧙‍♂️ </p>
