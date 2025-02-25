@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Ayllan Alves!
+<H2 align="center" > 👋 Olá, eu sou o Ayllan Alves! </H2>
 
 
-`  🎓 Estudante de Ciência da Computação |  🔧 Back-End Developer  | 🚀 Apaixonado por Tecnologia `
+`🎓 Estudante de Ciência da Computação |  🔧 Back-End Developer  | 🚀 Apaixonado por Tecnologia `
 
 
 Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolvedor back-end em Java. Estudando Spring Boot, microsserviços, arquiteturas escaláveis e outras tecnologias essenciais para o desenvolvimento back-end. Sempre em busca de aprendizado contínuo e aprimoramento das habilidades.
@@ -13,41 +13,63 @@ Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolv
 </div>
 
 ---
-## 🚀 Habilidades e Tecnologias  
+
+<H2 align="left" ><strong>🚀 Habilidades e Tecnologias</strong> </h2>
+<h3 align="center">📚 Tecnologias em aprendizado</h3>
+
+###
 
 <div align="center">
-
-### 🏆 Ferramentas com mais experiência  
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### 📚 Tecnologias em aprendizado  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🔜 Tecnologias que pretende aprender  
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-</p>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+###
+
+<h3 align="center">🔜 Tecnologias que pretendo aprender</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+</div>
 
 ---
-## 📌 Principais Projetos  
+
+<H2 align="left" > 📌 Principais Projetos  </H2>
 
 <table>
   <tr>
@@ -69,7 +91,8 @@ Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolv
 </table>
 
 ---
-## 📚 O que estou aprendendo  
+
+<H2 align="left" >📚 O que estou aprendendo</H2>
 
 - Java Core: **Fundamentos essenciais em Java**
 - Programação funcional em Java: **expressões lambda, Stream API**  
@@ -78,16 +101,16 @@ Atualmente, cursando Ciência da Computação e focado em me tornar um desenvolv
 
 --- 
 
-### 
+<H2 align="left" > 📊 Estatísticas</H2>
 
 <div align="center">
-  <img align=" center left" src="https://github-readme-stats.vercel.app/api?username=FAyllan111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img align="center right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAyllan111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=FAyllan111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FAyllan111&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  /> <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAyllan111&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
-###
 
+---
 
-💡 *"A cada linha de código, um novo aprendizado. A tecnologia é meu campo de exploração!"* 🚀
+💡 *"Tudo o que temos de decidir é o que fazer com o tempo que nos é dado."* - Gandalf 'O Cinzento' 🧙‍♂️
