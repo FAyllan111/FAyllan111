@@ -1,8 +1,8 @@
 <H2 align="center"> 👋 Olá, eu sou o Ayllan Alves! </H2>
+ 
+ `🎓 Estudante de Ciência da Computação | 📊 Analytics Engineer em formação | 📈 Inteligência de Negócio & Performance` 
 
-`🎓 Estudante de Ciência da Computação |  📊 Cientista de Dados em formação | 🔧 Futuro Dev Backend Python com Django`
-
-<p align="center"> Atualmente, cursando Ciência da Computação e focado em desenvolver habilidades em análise e ciência de dados com Python. Estou aprendendo sobre ETL, visualização de dados, manipulação de bases com Pandas e SQL, e também iniciando meus estudos em backend com Django. Apaixonado por tecnologia, dados e desenvolvimento de soluções inteligentes e escaláveis. </p>
+<p align="center"> Atualmente cursando Ciência da Computação, unindo sólida base teórica com a resolução de problemas reais de negócio. Focado no desenvolvimento de pipelines de dados eficientes, automações de processos e análise descritiva/estatística. Especializando-me na stack moderna de dados com Python (Pandas, Streamlit), SQL e ferramentas de Business Intelligence para transformar dados brutos em inteligência comercial e otimização de performance. </p>
 
 <div align="center">
 <h4> Contato :</h4>
@@ -14,73 +14,72 @@
 
 <H2 align="left"><strong>🚀 Habilidades e Tecnologias</strong></H2>
 
-<h3 align="center">📚 Tecnologias em aprendizado</h3>
+
+<h3 align="center">📊 Stack Analítica, Dados & Automação</h3>
 
 <div align="center">
+  <!-- Linguagens e Bibliotecas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
+  <img width="12" />  
+
+  <!-- Bancos de Dados e Ferramentas de Query -->
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sql lite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="40" alt="dbeaver logo" />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"         height="40" alt="sql server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img width="12" />
+
+  <!-- Ferramentas de BI, Office e Versionamento -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+ <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="35" alt="powerbi logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo" />
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" height="35" alt="excel logo" />
+  <img width="12" />
+</div>
 </div>
 
-<h3 align="center">🔜 Tecnologias que pretendo aprender</h3>
+<h3 align="center">🔜 Próximos Passos & Engenharia de Dados (Futuro)</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <!-- Cloud & Infra / Backend -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" /> 
+  
+  <!-- Analytics Engineering, Orquestração & Big Data -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZGU1QplqjYvmFyutZOabX-86w4bVeEzgIvz7iZhhcw&s=10" height="40" alt="dbt logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="airflow logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" alt="frontend icons" />
-
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREc8GFgoSJopRWDzTB3xT0EkpmAGhe-1lY1PemvODX9Q&s=10" height="40" alt="databricks logo" />
 </div>
 
 ---
 
-<H2 align="left" > 📌 Principais Projetos  </H2>
-
-<table>
-  <tr>
-    <td><a href="https://github.com/FAyllan111/bootcamp-dotnet"><b>Bootcamp .NET</b></a></td>
-    <td><a href="https://github.com/FAyllan111/java-cloud-native"><b>Java Cloud Native</b></a></td>
-  </tr>
-  <tr>
-    <td>Projetos desenvolvidos no Bootcamp Back-End com .NET.</td>
-    <td>Projetos do Bootcamp Java Cloud Native com microsserviços e APIs REST.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/FAyllan111/maratona-java"><b>Maratona Java</b></a></td>
-    <td><a href="https://github.com/FAyllan111/curso-java-poo"><b>Curso Java POO</b></a></td>
-  </tr>
-  <tr>
-    <td>Repositório de estudos do curso "Maratona Java" do DevDojo.</td>
-    <td>Projetos e exercícios do curso de Programação Orientada a Objetos em Java.</td>
-  </tr>
-</table>
-
----
-
----
-
-<H2 align="left">📌 Principais Projetos (em desenvolvimento)</H2>
+<H2 align="left" > 📌 Principais Projetos (Data & Analytics) </H2>
 
 <table>
   <tr>
@@ -88,27 +87,42 @@
     <td><a href="https://github.com/FAyllan111/etl-python"><b>Pipeline ETL com Python</b></a></td>
   </tr>
   <tr>
-    <td>Projeto explorando limpeza, transformação e análise de dados com Pandas.</td>
-    <td>Criação de um processo ETL simples com extração de dados, tratamento e carga em banco.</td>
+    <td>Exploração, limpeza, tratamento e engenharia de atributos utilizando a biblioteca Pandas.</td>
+    <td>Desenvolvimento de um pipeline focado em extração de bases, transformação de dados e carga automatizada em banco relacional.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/FAyllan111/dashboard-vendas"><b>Dashboard de Vendas com Streamlit</b></a></td>
-    <td><a href="https://github.com/FAyllan111/api-django-crud"><b>API CRUD com Django (em breve)</b></a></td>
+    <td><a href="https://github.com/FAyllan111/dashboard-vendas"><b>Dashboard com Streamlit</b></a></td>
+    <td><a href="https://github.com/FAyllan111/api-django-crud"><b>API CRUD com Django (Em breve)</b></a></td>
   </tr>
   <tr>
-    <td>Dashboard interativo com filtros, KPIs e gráficos dinâmicos.</td>
-    <td>Desenvolvimento de uma API RESTful com Django e SQLite para CRUD completo.</td>
+    <td>Construção de aplicações interativas de dados com foco em visualização de KPIs e análise de performance comercial.</td>
+    <td>Desenvolvimento de uma API RESTful para integração e consumo de dados de sistemas locais.</td>
   </tr>
 </table>
 
-<H2 align="left">📚 O que estou aprendendo</H2>
+---
 
-- **Python:** Fundamentos, orientação a objetos, boas práticas  
-- **Manipulação de Dados:** Pandas, NumPy, limpeza e transformação  
-- **Visualização de Dados:** Matplotlib, Seaborn, Streamlit  
-- **Banco de Dados:** SQL básico e intermediário (PostgreSQL, SQLite)  
-- **Backend com Python:** Conceitos de APIs REST, Django (em breve)  
-- **Versionamento:** Git, GitHub
+<H2 align="left">📌 Outros Repositórios e Fundamentos de Engenharia</H2>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/FAyllan111/bootcamp-dotnet"><b>Bootcamp .NET</b></a></td>
+    <td><a href="https://github.com/FAyllan111/java-cloud-native"><b>Java Cloud Native</b></a></td>
+  </tr>
+  <tr>
+    <td>Estudos de lógica e desenvolvimento utilizando a stack .NET.</td>
+    <td>Projetos explorando arquitetura de microsserviços, POO avançada e APIs REST em ecossistema Java.</td>
+  </tr>
+</table>
+
+---
+
+<H2 align="left">📚 O que estou praticando e aprofundando</H2>
+
+- **Manipulação de Dados:** Engenharia de dados local com Pandas, NumPy, técnicas de limpeza e transformações complexas.
+- **Visualização & Aplicações de Dados:** Geração de valor comercial através de dashboards no Power BI (DAX) e Web Apps dinâmicos com Streamlit.
+- **Banco de Dados & SQL:** Criação de queries otimizadas, agrupamentos, modelagem dimensional (Star Schema) e cruzamento de dados.
+- **Lógica e Arquitetura:** Programação funcional e defensiva com Python, tratamento de exceções e automação de rotinas manuais.
 
 ---
 
