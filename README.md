@@ -1,8 +1,9 @@
 <H2 align="center"> 👋 Olá, eu sou o Ayllan Alves! </H2>
  
- `🎓 Estudante de Ciência da Computação | 📊 Analytics Engineer em formação | 📈 Inteligência de Negócio & Performance` 
+ `📊 Data Analytics | 📈 Performance Comercial & Business Intelligence | 🎓 Ciência da Computação | 🚀 Analytics Engineering` 
 
-<p align="center"> Atualmente cursando Ciência da Computação, unindo sólida base teórica com a resolução de problemas reais de negócio. Focado no desenvolvimento de pipelines de dados eficientes, automações de processos e análise descritiva/estatística. Especializando-me na stack moderna de dados com Python (Pandas, Streamlit), SQL e ferramentas de Business Intelligence para transformar dados brutos em inteligência comercial e otimização de performance. </p>
+
+<p align="center"> Atuo na construção de dashboards, KPIs e análises estratégicas que suportam a tomada de decisão comercial, utilizando Power BI, SQL, Excel e Power Query para transformar dados operacionais em insights acionáveis.Graduando em Ciência da Computação, com foco em Analytics Engineering, envolvendo modelagem de dados, automação de processos analíticos, estatística aplicada e desenvolvimento de soluções orientadas a dados com Python e SQL. </p>
 
 <div align="center">
 <h4> Contato :</h4>
@@ -50,7 +51,7 @@
 </div>
 </div>
 
-<h3 align="center">🔜 Próximos Passos & Engenharia de Dados (Futuro)</h3>
+<h3 align="center">🔜 Roadmap de Analytics Engineering</h3>
 
 <div align="center">
   <!-- Cloud & Infra / Backend -->
