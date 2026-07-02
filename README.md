@@ -40,7 +40,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
   <img width="12" />
-
+ <img src="https://www.readmecodegen.com/api/social-icon?name=duckdb&size=96" height="40" alt="duckdb" />
+ <img width="12" />
   <!-- Ferramentas de BI, Office e Versionamento -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
