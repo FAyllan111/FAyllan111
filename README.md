@@ -7,8 +7,8 @@
 
 <div align="center">
 <h4> Contato :</h4>
-<a href="mailto:franciscoayllan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ayllan-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+<a href="mailto:franciscoayllan@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=96" height="40" alt="gmail" /></a> <img width="12" />
+<a href="https://www.linkedin.com/in/ayllan-silva" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" height="40" alt="linkedin" /></a>   
 </div>
 
 ---
@@ -40,8 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
   <img width="12" />
- <img src="https://www.readmecodegen.com/api/social-icon?name=duckdb&size=96" height="40" alt="duckdb" />
- <img width="12" />
+
   <!-- Ferramentas de BI, Office e Versionamento -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
@@ -70,13 +69,20 @@
   <img width="12" /> 
   
   <!-- Analytics Engineering, Orquestração & Big Data -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZGU1QplqjYvmFyutZOabX-86w4bVeEzgIvz7iZhhcw&s=10" height="40" alt="dbt logo" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=dbt&size=96" height="40" alt="dbt" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="airflow logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo" />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREc8GFgoSJopRWDzTB3xT0EkpmAGhe-1lY1PemvODX9Q&s=10" height="40" alt="databricks logo" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=databricks&size=96" height="40" alt="databricks" />
+<img width="12" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96" height="40" alt="mongodb" />
+<img width="12" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=redis&size=96" height="40" alt="redis" />
+<img width="12" />
+ <img src="https://www.readmecodegen.com/api/social-icon?name=duckdb&size=96" height="40" alt="duckdb" />
+ <img width="12" />
 </div>
 
 ---
@@ -138,4 +144,4 @@
 
 ---
 
-<p align="center"> 💡 <strong>"Tudo o que temos de decidir é o que fazer com o tempo que nos é dado."</strong> – Gandalf, o Cinzento 🧙‍♂️ </p>
+<p align="center"> <img src="https://www.readmecodegen.com/api/social-icon?name=hatWizard&size=20&color=%#f59e0b"  alt="hatWizard" /> <img width="12" /> <strong>"Tudo o que temos de decidir é o que fazer com o tempo que nos é dado."</strong> – Gandalf, o Cinzento 🧙‍♂️  <img width="12" /> <img src="https://www.readmecodegen.com/api/social-icon?name=hatWizard&size=20&color=%#f59e0b" alt="hatWizard" /> </p>
